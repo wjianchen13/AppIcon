@@ -11,6 +11,11 @@ gradle插件：8.10.1
 gradle版本：gradle-8.11.1-bin
 
 
+# 编译环境
+android-studio-2024.3.2.15
+gradle插件：8.10.1
+gradle版本：gradle-8.11.1-bin
+
 # 参考资料  
 https://blog.csdn.net/guolin_blog/article/details/79417483  
 https://www.jianshu.com/p/ed2714f7c7c5  
